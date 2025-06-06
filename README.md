@@ -57,7 +57,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 LinkedIn
-[Chanaksha Rahangdale]([https://www.linkedin.com/in/chanaksha-rahangdale-93b726321])
+[Chanaksha Rahangdale](https://www.linkedin.com/in/chanaksha-rahangdale-93b726321)
 
 More Projects
 GitHub: [Chanaksha2003](https://github.com/Chanaksha2003)
